@@ -1,0 +1,19 @@
+body {
+  width: 660px;
+  margin: 0 auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.forulma {
+  border: 1px grey solid;
+  width: 490px;
+  margin-right: 500px;
+  font-size: 50px;
+}
+
+#btn2 {
+  background-color: rgb(104, 104, 223);
+}
+
+#btn {
+  background-color: rgb(245, 90, 90);
+}
